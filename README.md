@@ -1,4 +1,4 @@
-# Complex-Header-File-C-
+# Complex-Header-File-C++-
 Implementation of complex numbers in C++ using classes and Header File.
 I made my own implementation for complex numbers with aditional functions and operations.
 I also used cmath and iostream for my implementations, cmath is used for functions like atan(), sqrt() and the number M_PI
